@@ -1,4 +1,4 @@
-import pilas
+import pila
 pilas.iniciar()
 
 class PantallaBienvenida(pilas.escena.Normal):
